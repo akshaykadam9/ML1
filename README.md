@@ -38,3 +38,8 @@ docker ps
 To stop docker container
 ```
 docker stop <container_id>
+
+To install ipykernel
+```
+pip install ipykernel
+```
