@@ -3,4 +3,6 @@ gunicorn
 sklearn
 pandas
 numpy
+evidently # Evidently open-source python package to estimate and explore data drift for machine learning models.
+dill
 -e .
